@@ -1,0 +1,12 @@
+Estão inclusos makefiles tanto para o trabalho em C++
+quanto para Java.
+
+Não é recomendado o uso de "make run" no trabalho de C++
+uma vez que o makefile interefere no tratamento de sinais.
+Em java se mostrou indiferente nos testes.
+
+JVM Utilizada:
+	java version "1.8.0_25"
+
+Compilador G++:
+	g++ (GCC) 4.9.2

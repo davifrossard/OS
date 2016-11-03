@@ -1,0 +1,6 @@
+ping www.google.com -c 3
+pwd
+gnome-calculator &
+wait
+ls | sort
+ls | sort | wc
